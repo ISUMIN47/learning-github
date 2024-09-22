@@ -21,7 +21,7 @@ For example, the objects in the following images were detected using [mmdetectio
 - openmmlab
 - package manager
 
-### Installration
+### Installation
 
 In a bash terminal, run the following commands (*Do NOT actually run these commands in your computer*):
 
